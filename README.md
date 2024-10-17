@@ -1,4 +1,4 @@
-# Target eCommerce Data Analysis
+# Target Ecommerce Data Analysis
 
 ## Project Overview
 This project focuses on analyzing target eCommerce data using SQL queries integrated into Python.
